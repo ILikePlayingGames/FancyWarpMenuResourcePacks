@@ -1,0 +1,395 @@
+{
+  "islandList": [
+    {
+      "name": "Hub",
+      "texturePath": "textures/gui/islands/Hub.png",
+      "gridX": 28,
+      "gridY": 22,
+      "zLevel": 0,
+      "widthPercentage": 0.1,
+      "warpList": [
+        {
+          "displayName": "Spawn",
+          "commandName": "hub",
+          "gridX": 15,
+          "gridY": 17
+        },
+        {
+          "displayName": "Museum",
+          "commandName": "museum",
+          "gridX": 23,
+          "gridY": 7
+        },
+        {
+          "displayName": "Crypts",
+          "commandName": "crypts",
+          "gridX": 24,
+          "gridY": 25
+        },
+        {
+          "displayName": "Wizard",
+          "commandName": "wizard",
+          "gridX": 12,
+          "gridY": 5
+        },
+        {
+          "displayName": "Sirius",
+          "commandName": "da",
+          "gridX": 5,
+          "gridY": 1
+        },
+        {
+          "displayName": "Ruins",
+          "commandName": "castle",
+          "gridX": 34,
+          "gridY": 5
+        }
+      ]
+    },
+    {
+      "name": "Crimson Isle",
+      "texturePath": "textures/gui/islands/Crimson Isle.png",
+      "gridX": 32,
+      "gridY": 0,
+      "zLevel": 2,
+      "widthPercentage": 0.1,
+      "warpList": [
+        {
+          "displayName": "Spawn",
+          "commandName": "isle",
+          "gridX": 19,
+          "gridY": 27
+        },
+        {
+          "displayName": "Skull",
+          "commandName": "skull",
+          "gridX": 18,
+          "gridY": 3
+        },
+        {
+          "displayName": "Tomb",
+          "commandName": "smold",
+          "gridX": 25,
+          "gridY": 5
+        },
+        {
+          "displayName": "Wasteland",
+          "commandName": "wasteland",
+          "gridX": 12,
+          "gridY": 9,
+          "requiresSpecialGameMode": true
+        },
+        {
+          "displayName": "Dragontail",
+          "commandName": "dragontail",
+          "gridX": 3,
+          "gridY": 3,
+          "requiresSpecialGameMode": true
+        },
+        {
+          "displayName": "Scarleton",
+          "commandName": "scarleton",
+          "gridX": 32,
+          "gridY": 12,
+          "requiresSpecialGameMode": true
+        }
+      ]
+    },
+    {
+      "name": "Spider's Den",
+      "texturePath": "textures/gui/islands/Spider's Den.png",
+      "gridX": 28,
+      "gridY": 14,
+      "zLevel": 1,
+      "widthPercentage": 0.07,
+      "warpList": [
+        {
+          "displayName": "Spawn",
+          "commandName": "spider",
+          "gridX": 21,
+          "gridY": 13
+        },
+        {
+          "displayName": "Top",
+          "commandName": "top",
+          "gridX": 31,
+          "gridY": 3
+        },
+        {
+          "displayName": "Arachne",
+          "commandName": "arachne",
+          "gridX": 31,
+          "gridY": 17
+        }
+      ]
+    },
+    {
+      "name": "The End",
+      "texturePath": "textures/gui/islands/End.png",
+      "gridX": 24,
+      "gridY": 0,
+      "zLevel": 2,
+      "widthPercentage": 0.08,
+      "warpList": [
+        {
+          "displayName": "Spawn",
+          "commandName": "end",
+          "gridX": 30,
+          "gridY": 15
+        },
+        {
+          "displayName": "Den",
+          "commandName": "drag",
+          "gridX": 14,
+          "gridY": 22
+        },
+        {
+          "displayName": "Void",
+          "commandName": "void",
+          "gridX": 24,
+          "gridY": 24
+        }
+      ]
+    },
+    {
+      "name": "Gold Mine",
+      "texturePath": "textures/gui/islands/Gold Mine.png",
+      "gridX": 35,
+      "gridY": 22,
+      "zLevel": 1,
+      "widthPercentage": 0.04,
+      "warpList": [
+        {
+          "displayName": "Spawn",
+          "commandName": "gold",
+          "gridX": 8,
+          "gridY": 20,
+          "hideDisplayName": true
+        }
+      ]
+    },
+    {
+      "name": "Deep Caverns",
+      "texturePath": "textures/gui/islands/Deep Caverns.png",
+      "gridX": 34,
+      "gridY": 12,
+      "zLevel": 2,
+      "widthPercentage": 0.05,
+      "warpList": [
+        {
+          "displayName": "Spawn",
+          "commandName": "deep",
+          "gridX": 3,
+          "gridY": 19
+        },
+        {
+          "displayName": "Dwarven\nMines",
+          "commandName": "dwarves",
+          "gridX": 28,
+          "gridY": 14
+        },
+        {
+          "displayName": "Forge",
+          "commandName": "forge",
+          "gridX": 11,
+          "gridY": 5
+        },
+        {
+          "displayName": "Hollows",
+          "commandName": "ch",
+          "gridX": 30,
+          "gridY": 29
+        },
+        {
+          "displayName": "Nucleus",
+          "commandName": "nucleus",
+          "gridX": 3,
+          "gridY": 29
+        }
+      ]
+    },
+    {
+      "name": "Home",
+      "texturePath": "textures/gui/islands/Private Island.png",
+      "gridX": 35,
+      "gridY": 29,
+      "zLevel": 2,
+      "widthPercentage": 0.03,
+      "warpList": [
+        {
+          "displayName": "Home",
+          "commandName": "home",
+          "gridX": 3,
+          "gridY": 3,
+          "hideDisplayName": true
+        }
+      ]
+    },
+    {
+      "name": "Garden",
+      "texturePath": "textures/gui/islands/Garden.png",
+      "gridX": 38,
+      "gridY": 29,
+      "zLevel": 1,
+      "widthPercentage": 0.05,
+      "warpList": [
+        {
+          "displayName": "Garden",
+          "commandName": "garden",
+          "gridX": 18,
+          "gridY": 8,
+          "hideDisplayName": true
+        }
+      ]
+    },
+    {
+      "name": "The Barn",
+      "texturePath": "textures/gui/islands/Barn.png",
+      "gridX": 25,
+      "gridY": 27,
+      "zLevel": 1,
+      "widthPercentage": 0.04,
+      "warpList": [
+        {
+          "displayName": "Spawn",
+          "commandName": "barn",
+          "gridX": 1,
+          "gridY": 19,
+          "hideDisplayName": true
+        }
+      ]
+    },
+    {
+      "name": "Mushroom Desert",
+      "texturePath": "textures/gui/islands/Mushroom Desert.png",
+      "gridX": 22,
+      "gridY": 19,
+      "zLevel": 2,
+      "widthPercentage": 0.07,
+      "warpList": [
+        {
+          "displayName": "Spawn",
+          "commandName": "desert",
+          "gridX": 12,
+          "gridY": 23
+        },
+        {
+          "displayName": "Trapper",
+          "commandName": "trapper",
+          "gridX": 12,
+          "gridY": 8
+        }
+      ]
+    },
+    {
+      "name": "The Park",
+      "texturePath": "textures/gui/islands/Park.png",
+      "gridX": 23,
+      "gridY": 10,
+      "zLevel": 1,
+      "widthPercentage": 0.07,
+      "warpList": [
+        {
+          "displayName": "Spawn",
+          "commandName": "park",
+          "gridX": 17,
+          "gridY": 26
+        },
+        {
+          "displayName": "Cave",
+          "commandName": "howl",
+          "gridX": 22,
+          "gridY": 14
+        },
+        {
+          "displayName": "Jungle",
+          "commandName": "jungle",
+          "gridX": 34,
+          "gridY": 1
+        }
+      ]
+    },
+    {
+      "name": "Jerry's Workshop",
+      "texturePath": "textures/gui/islands/Jerry's Workshop.png",
+      "gridX": 18,
+      "gridY": 27,
+      "zLevel": 2,
+      "widthPercentage": 0.05,
+      "warpList": [
+        {
+          "displayName": "Spawn",
+          "commandName": "/savethejerrys",
+          "gridX": 35,
+          "gridY": 14,
+          "hideDisplayName": true
+        }
+      ]
+    },
+    {
+      "name": "Dungeon\nHub",
+      "texturePath": "textures/gui/islands/Dungeon Hub.png",
+      "gridX": 30,
+      "gridY": 9,
+      "zLevel": 1,
+      "widthPercentage": 0.01,
+      "warpList": [
+        {
+          "displayName": "Spawn",
+          "commandName": "dungeons",
+          "gridX": 0,
+          "gridY": 0,
+          "hideDisplayName": true,
+          "hideButton": true
+        }
+      ]
+    }
+  ],
+  "warpMessages": {
+    "warpSuccessMessages": [
+      "Warping..."
+    ],
+    "warpFailMessages": {
+      "Unknown destination! Check the Fast Travel menu to view options!": "fancywarpmenu.errors.unknownDestination",
+      "You haven't unlocked this fast travel destination!": "fancywarpmenu.errors.notUnlocked",
+      "Couldn't warp you! Try again later. (NO_DESTINATION_FOUND)": "fancywarpmenu.errors.noDestination",
+      "You need to have visited this island at least once before fast traveling to it!": "fancywarpmenu.errors.notVisited"
+    }
+  },
+  "warpIcon": {
+    "texturePath": "textures/gui/Portal.png",
+    "widthPercentage": 0.008,
+    "heightPercentage": 1.2
+  },
+  "configButton": {
+    "gridX": 60,
+    "gridY": 32,
+    "widthPercentage": 0.05
+  },
+  "warpCommandVariants": [
+    {
+      "command": "warp",
+      "type": "ALIAS"
+    },
+    {
+      "command": "travel",
+      "type": "ALIAS"
+    },
+    {
+      "command": "is",
+      "type": "WARP"
+    },
+    {
+      "command": "hub",
+      "type": "WARP"
+    },
+    {
+      "command": "warpforge",
+      "type": "WARP"
+    },
+    {
+      "command": "savethejerrys",
+      "type": "WARP"
+    }
+  ]
+}
