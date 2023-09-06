@@ -11,38 +11,38 @@
         {
           "displayName": "Spawn",
           "commandName": "hub",
-          "gridX": 15,
-          "gridY": 17
+          "gridX": 19,
+          "gridY": 11
         },
         {
           "displayName": "Museum",
           "commandName": "museum",
-          "gridX": 23,
-          "gridY": 7
+          "gridX": 17,
+          "gridY": 25
         },
         {
           "displayName": "Crypts",
           "commandName": "crypts",
-          "gridX": 24,
-          "gridY": 25
+          "gridX": 3,
+          "gridY": 15
         },
         {
           "displayName": "Wizard",
           "commandName": "wizard",
-          "gridX": 12,
-          "gridY": 5
+          "gridX": 26,
+          "gridY": 18
         },
         {
-          "displayName": "Sirius",
+          "displayName": "Sirius (DA)",
           "commandName": "da",
-          "gridX": 5,
-          "gridY": 1
+          "gridX": 37,
+          "gridY": 28
         },
         {
           "displayName": "Ruins",
           "commandName": "castle",
-          "gridX": 34,
-          "gridY": 5
+          "gridX": 1,
+          "gridY": 22
         }
       ]
     },
@@ -57,40 +57,40 @@
         {
           "displayName": "Spawn",
           "commandName": "isle",
-          "gridX": 19,
-          "gridY": 27
+          "gridX": 4,
+          "gridY": 30
         },
         {
           "displayName": "Skull",
           "commandName": "skull",
-          "gridX": 18,
-          "gridY": 3
+          "gridX": 22,
+          "gridY": 8
         },
         {
           "displayName": "Tomb",
           "commandName": "smold",
-          "gridX": 25,
-          "gridY": 5
+          "gridX": 27,
+          "gridY": 14
         },
         {
           "displayName": "Wasteland",
           "commandName": "wasteland",
           "gridX": 12,
-          "gridY": 9,
+          "gridY": 12,
           "requiresSpecialGameMode": true
         },
         {
           "displayName": "Dragontail",
           "commandName": "dragontail",
-          "gridX": 3,
-          "gridY": 3,
+          "gridX": 11,
+          "gridY": 2,
           "requiresSpecialGameMode": true
         },
         {
           "displayName": "Scarleton",
           "commandName": "scarleton",
-          "gridX": 32,
-          "gridY": 12,
+          "gridX": 21,
+          "gridY": 24,
           "requiresSpecialGameMode": true
         }
       ]
@@ -106,20 +106,20 @@
         {
           "displayName": "Spawn",
           "commandName": "spider",
-          "gridX": 21,
-          "gridY": 13
+          "gridX": 23,
+          "gridY": 23
         },
         {
           "displayName": "Top",
           "commandName": "top",
           "gridX": 31,
-          "gridY": 3
+          "gridY": 1
         },
         {
           "displayName": "Arachne",
           "commandName": "arachne",
-          "gridX": 31,
-          "gridY": 17
+          "gridX": 6,
+          "gridY": 16
         }
       ]
     },
@@ -134,20 +134,20 @@
         {
           "displayName": "Spawn",
           "commandName": "end",
-          "gridX": 30,
-          "gridY": 15
+          "gridX": 26,
+          "gridY": 20
         },
         {
-          "displayName": "Den",
+          "displayName": "Nest",
           "commandName": "drag",
-          "gridX": 14,
-          "gridY": 22
+          "gridX": 11,
+          "gridY": 32
         },
         {
           "displayName": "Void",
           "commandName": "void",
           "gridX": 24,
-          "gridY": 24
+          "gridY": 30
         }
       ]
     },
@@ -163,8 +163,7 @@
           "displayName": "Spawn",
           "commandName": "gold",
           "gridX": 8,
-          "gridY": 20,
-          "hideDisplayName": true
+          "gridY": 20
         }
       ]
     },
@@ -179,32 +178,32 @@
         {
           "displayName": "Spawn",
           "commandName": "deep",
-          "gridX": 3,
-          "gridY": 19
+          "gridX": 5,
+          "gridY": 21
         },
         {
           "displayName": "Dwarven\nMines",
           "commandName": "dwarves",
-          "gridX": 28,
-          "gridY": 14
+          "gridX": 32,
+          "gridY": 12
         },
         {
           "displayName": "Forge",
           "commandName": "forge",
-          "gridX": 11,
+          "gridX": 17,
           "gridY": 5
         },
         {
           "displayName": "Hollows",
           "commandName": "ch",
-          "gridX": 30,
-          "gridY": 29
+          "gridX": 31,
+          "gridY": 26
         },
         {
           "displayName": "Nucleus",
           "commandName": "nucleus",
-          "gridX": 3,
-          "gridY": 29
+          "gridX": 18,
+          "gridY": 30
         }
       ]
     },
@@ -220,8 +219,7 @@
           "displayName": "Home",
           "commandName": "home",
           "gridX": 3,
-          "gridY": 3,
-          "hideDisplayName": true
+          "gridY": 3
         }
       ]
     },
@@ -236,9 +234,8 @@
         {
           "displayName": "Garden",
           "commandName": "garden",
-          "gridX": 18,
-          "gridY": 8,
-          "hideDisplayName": true
+          "gridX": 10,
+          "gridY": 8
         }
       ]
     },
@@ -254,8 +251,7 @@
           "displayName": "Spawn",
           "commandName": "barn",
           "gridX": 1,
-          "gridY": 19,
-          "hideDisplayName": true
+          "gridY": 19
         }
       ]
     },
@@ -270,8 +266,8 @@
         {
           "displayName": "Spawn",
           "commandName": "desert",
-          "gridX": 12,
-          "gridY": 23
+          "gridX": 14,
+          "gridY": 29
         },
         {
           "displayName": "Trapper",
@@ -292,20 +288,20 @@
         {
           "displayName": "Spawn",
           "commandName": "park",
-          "gridX": 17,
-          "gridY": 26
+          "gridX": 25,
+          "gridY": 30
         },
         {
           "displayName": "Cave",
           "commandName": "howl",
-          "gridX": 22,
-          "gridY": 14
+          "gridX": 30,
+          "gridY": 16
         },
         {
           "displayName": "Jungle",
           "commandName": "jungle",
-          "gridX": 34,
-          "gridY": 1
+          "gridX": 19,
+          "gridY": 4
         }
       ]
     },
@@ -320,9 +316,8 @@
         {
           "displayName": "Spawn",
           "commandName": "/savethejerrys",
-          "gridX": 35,
-          "gridY": 14,
-          "hideDisplayName": true
+          "gridX": 22,
+          "gridY": 16
         }
       ]
     },
@@ -337,59 +332,25 @@
         {
           "displayName": "Spawn",
           "commandName": "dungeons",
-          "gridX": 0,
-          "gridY": 0,
-          "hideDisplayName": true,
-          "hideButton": true
+          "gridX": 6,
+          "gridY": 15
         }
       ]
     }
   ],
-  "warpMessages": {
-    "warpSuccessMessages": [
-      "Warping..."
-    ],
-    "warpFailMessages": {
-      "Unknown destination! Check the Fast Travel menu to view options!": "fancywarpmenu.errors.unknownDestination",
-      "You haven't unlocked this fast travel destination!": "fancywarpmenu.errors.notUnlocked",
-      "Couldn't warp you! Try again later. (NO_DESTINATION_FOUND)": "fancywarpmenu.errors.noDestination",
-      "You need to have visited this island at least once before fast traveling to it!": "fancywarpmenu.errors.notVisited"
-    }
-  },
   "warpIcon": {
     "texturePath": "textures/gui/Portal.png",
     "widthPercentage": 0.008,
     "heightPercentage": 1.2
   },
   "configButton": {
-    "gridX": 60,
-    "gridY": 32,
-    "widthPercentage": 0.05
+    "gridX": 42,
+    "gridY": 33,
+    "widthPercentage": 0.01
   },
-  "warpCommandVariants": [
-    {
-      "command": "warp",
-      "type": "ALIAS"
-    },
-    {
-      "command": "travel",
-      "type": "ALIAS"
-    },
-    {
-      "command": "is",
-      "type": "WARP"
-    },
-    {
-      "command": "hub",
-      "type": "WARP"
-    },
-    {
-      "command": "warpforge",
-      "type": "WARP"
-    },
-    {
-      "command": "savethejerrys",
-      "type": "WARP"
-    }
-  ]
+  "regularWarpMenuButton": {
+    "gridX": 42,
+    "gridY": 32,
+    "widthPercentage": 0.01
+  }
 }
