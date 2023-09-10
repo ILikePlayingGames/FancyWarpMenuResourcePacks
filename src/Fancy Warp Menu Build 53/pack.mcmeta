@@ -1,6 +1,6 @@
 {
    "pack": {
-      "description": "Textures from Fancy Warp Menu v0.0.1 Build 53 for Fancy Warp Menu v${modVersion}",
+      "description": "Textures from v0.0.1 Build 53\nFancy Warp Menu v${modVersion}",
       "pack_format": 1
-      }
+   }
 }
